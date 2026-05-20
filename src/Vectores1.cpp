@@ -1,4 +1,4 @@
-/** 
+/** hjlhjkk
  * vector / array     => Ambos são sequências mutáveis de objectos do mesmo do tipo 
  *                       de dados. Ou seja, são sequências homogéneas.
  *                       Além disto, todos os elementos são guardados 
